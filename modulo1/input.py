@@ -1,0 +1,5 @@
+print("Bienvenido al programa de bievenida")
+name=input('introduzca su nombre:')
+edad=int(input('introduzaca su edad:'))
+ocupacion=input('a que se dedica:')
+print(f"mucho gusto,{name},{edad},{ocupacion}")

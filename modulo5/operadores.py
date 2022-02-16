@@ -10,3 +10,6 @@ print("MULTIPLICACION")
 product = 30 * 12
 print(product)
 
+print("division")
+quotient = 30 / 12
+print(quotient)
